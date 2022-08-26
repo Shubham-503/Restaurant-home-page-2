@@ -18,7 +18,6 @@
 <br>
 
 #### It took around 2 hr to build 
- - livelink()
+ - # [Live Link](https://restaurant-2.netlify.app/)
 
-# 
 ![Screenshots](/assets/thumbnail.png)
